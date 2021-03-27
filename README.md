@@ -1,4 +1,4 @@
-# Wie arbeitet mit einer API?
+# Wie arbeitet man mit einer API?
 Code aus dem YouTube Tutorial "Wie nutze ich eine API?". Um das Script zu starten einfach die folgenden Punkte durchführen:
 
 ### Erstellen einer .env Datei
